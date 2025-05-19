@@ -1,0 +1,20 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites":[
+      {
+        "source": "/posts/AWS-Redshift",
+        "destination": "/posts/AWS-Redshift.html"
+      },
+      {
+        "source": "/posts/Elastic-Load-Balancing",
+        "destination": "/posts/Elastic-Load-Balancing.html"
+      }
+    ]
+  }
+}

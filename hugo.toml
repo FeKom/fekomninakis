@@ -1,0 +1,28 @@
+baseURL = 'https://fekomninakis-3f25b.web.app/'
+languageCode = 'pt-BR'
+title = 'fekomninakis'
+theme = 'hello-friend-ng'
+
+
+[menu]
+  [[menu.main]]
+    identifier = "sobre"
+    name       = "Sobre"
+    url        = "sobre/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+
+[params]
+  [[params.social]]
+    name = "email"
+    url  = "mailto:fekomninakis@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/fekom"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/fekomninakis"
