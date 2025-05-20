@@ -13,6 +13,10 @@ theme = 'hello-friend-ng'
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "certificados"
+    name       = "Certificados"
+    url        = "certificados/"
 
 [params]
   [[params.social]]
@@ -26,3 +30,12 @@ theme = 'hello-friend-ng'
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/fekomninakis"
+
+
+[params.author]
+    name = "Felipe Komninakis"
+
+
+[params.footer]
+    trademark = 2025
+    author = true
