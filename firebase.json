@@ -12,6 +12,10 @@
         "destination": "/posts/AWS-Redshift.html"
       },
       {
+        "source" :"/posts/containers-e-linux",
+        "destination": "/posts/containers-e-linux.html"
+      },
+      {
         "source": "/posts/Elastic-Load-Balancing",
         "destination": "/posts/Elastic-Load-Balancing.html"
       },

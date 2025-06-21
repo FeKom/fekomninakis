@@ -39,3 +39,6 @@ theme = 'hello-friend-ng'
 [params.footer]
     trademark = 2025
     author = true
+
+
+enableGlobalLanguageMenu = true
