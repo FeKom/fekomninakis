@@ -11,7 +11,7 @@ Este blog é um espaço onde compartilho ideias, projetos e reflexões. Ele foi 
 
 - Hugo: Framework para geração de sites estáticos.
 - Firebase Hosting: Plataforma de hospedagem para o deploy do site.
-- Registro.br: Serviço utilizado para compra e configuração do domínio fekomninakis.com.br.
+- Registro.br: Serviço utilizado para compra e configuração do domínio [fekomninakis.com.br](https://fekomninakis.com.br).
 
 ## Como Configurar Localmente
 Para rodar o projeto localmente, siga os passos abaixo:
@@ -45,14 +45,16 @@ hugo server
 
 ## Configuração do Domínio
 
-O domínio fekomninakis.com.br foi registrado via Registro.br. Para configurar o DNS:
+O domínio [fekomninakis.com.br](https://fekomninakis.com.br) foi registrado pelo Registro.br. 
+
+Para configurar o DNS:
 
 1. Acesse o painel do Registro.br.
 2. Configure os registros DNS para apontar para os servidores do Firebase Hosting (instruções disponíveis na documentação do Firebase).
 3. Aguarde a propagação do DNS (pode levar até 48 horas).
 
 ## Deploy no Firebase
-Para implantar o site no Firebase, utilizamos o script [./script-deploy-firebase.sh.] Siga estas etapas:
+Para implantar o site no Firebase, utilizamos o script [./script-deploy-firebase.sh](/fekomninakis/script-deploy-firebase.sh). Siga estas etapas:
 
 1. Instale o Firebase CLI:
 ```bash
