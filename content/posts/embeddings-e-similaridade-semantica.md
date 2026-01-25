@@ -1,6 +1,6 @@
 ---
 title: "Embeddings e Similaridade Semântica"
-date: 2025-01-22T10:00:00-03:00
+date: 2026-01-22T10:00:00-03:00
 draft: false
 toc: false
 images:
