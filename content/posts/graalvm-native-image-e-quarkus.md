@@ -1,7 +1,7 @@
 ---
 title: "GraalVM, Native Image e como o Quarkus se beneficia disso"
 date: 2026-02-11T10:00:00-03:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
